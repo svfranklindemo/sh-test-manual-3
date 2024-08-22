@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/sh-test-manual-3/:/
+ - /content/sh-test-manual-3/metadata.json:/metadata.json
+ - /content/sh-test-manual-3/redirects.json:/redirects.json
